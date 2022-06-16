@@ -23,7 +23,7 @@ const greeting = {
   username: "Farhina Rahman Mahi",
   title: "Hello!",
   subTitle: emoji(
-    "Myself Farhina Rahman Mahi.I'm from Bangladesh  and I love to create my own world by drawings. I draw my thoughts in a shape of art."
+    "Myself Farhina Rahman Mahi.I'm from Bangladesh and I love to create my own world by drawings. I draw my thoughts in a shape of art."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -120,7 +120,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "BRAC University",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2017 - April 2019",
